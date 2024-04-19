@@ -14,7 +14,7 @@
 Check out my latest blog posts (more to come soon):
 
 - [AWS Lambda Data Validation with Pydantic](https://blog.pydantic.dev/blog/2024/04/04/lambda-intro/)
-- [Title of Blog Post](link)
+- [New Features and Performance Improvements in Pydantic v2.7](https://blog.pydantic.dev/blog/2024/04/11/2-7-release/)
 
 ## Get in Touch
 
