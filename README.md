@@ -30,4 +30,4 @@ More to come soon!
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sydney-runkle/)
 - 🐦 Follow me on [Twitter](https://twitter.com/sydneyrunkle), and maybe I'll start actually using it someday.
-- ☕ If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/sydney.runkle)!
+- ☕ If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/sydney.runkle) or sponsoring my open source work!
