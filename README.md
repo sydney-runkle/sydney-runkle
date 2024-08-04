@@ -13,6 +13,7 @@
 
 - [AWS Lambda Data Validation with Pydantic](https://blog.pydantic.dev/blog/2024/04/04/lambda-intro/)
 - [New Features and Performance Improvements in Pydantic v2.7](https://blog.pydantic.dev/blog/2024/04/11/2-7-release/)
+- [Pydantic v2.8 Highlights](https://pydantic.dev/articles/pydantic-v2-8-release)
 
 More to come soon!
 
