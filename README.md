@@ -7,15 +7,17 @@
 - 🏃‍♀️ When I'm not coding, you can find me running, biking, or doing anything outside!
 - 🎧 I'm a podcast addict! I love listening to podcasts on a wide range of topics, including politics, tech, news, philosophy, and music.
 - 🌱 I’m currently learning rust and typescript, and I'm hoping to be fluent by the end of the year.
-- 🥐 Fun fact: I try to bake something new every single week!
+- 🥐 Fun fact: I try to [bake something new](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0) every single week!
 
 ## Blog Posts
 
 - [AWS Lambda Data Validation with Pydantic](https://blog.pydantic.dev/blog/2024/04/04/lambda-intro/)
 - [New Features and Performance Improvements in Pydantic v2.7](https://blog.pydantic.dev/blog/2024/04/11/2-7-release/)
 - [Pydantic v2.8 Highlights](https://pydantic.dev/articles/pydantic-v2-8-release)
-
-More to come soon!
+- [Pydantic v2.9 Highlights]()
+- [I Bake Every Sunday. Why Don’t I Write, Too?](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0)
+- [Having fun, in my 9–5 and my 5–9](https://medium.com/@sydneymarierunkle/having-fun-in-my-9-5-and-my-5-9-755a5733d33b)
+- [The Case for Documenting Code](https://medium.com/@sydneymarierunkle/the-case-for-documenting-code-a069e15f5cf7)
 
 ## Podcasts
 
@@ -24,7 +26,8 @@ More to come soon!
 
 ## Talks
 
-👷‍♀️ Coming soon - a recording from my talk at PyCon! I'll list future conference talks here as well.
+- [Pydantic Performance Tips](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
+- [My Year+ of Open Source at Pydantic]() - recording coming soon!
 
 ## Get in Touch
 
