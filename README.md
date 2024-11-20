@@ -14,10 +14,12 @@
 - [AWS Lambda Data Validation with Pydantic](https://blog.pydantic.dev/blog/2024/04/04/lambda-intro/)
 - [New Features and Performance Improvements in Pydantic v2.7](https://blog.pydantic.dev/blog/2024/04/11/2-7-release/)
 - [Pydantic v2.8 Highlights](https://pydantic.dev/articles/pydantic-v2-8-release)
-- [Pydantic v2.9 Highlights]()
+- [Pydantic v2.9 Highlights](https://pydantic.dev/articles/pydantic-v2-9-release)
 - [I Bake Every Sunday. Why Don’t I Write, Too?](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0)
 - [Having fun, in my 9–5 and my 5–9](https://medium.com/@sydneymarierunkle/having-fun-in-my-9-5-and-my-5-9-755a5733d33b)
 - [The Case for Documenting Code](https://medium.com/@sydneymarierunkle/the-case-for-documenting-code-a069e15f5cf7)
+- [Cancelled Flights, Wanderers Delights](https://medium.com/@sydneymarierunkle/cancelled-flights-wanderers-delights-0cc5eb696908)
+- [Pydantic v2.10](https://pydantic.dev/articles/pydantic-v2-10-release)
 
 ## Podcasts
 
