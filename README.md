@@ -27,7 +27,7 @@
 ## Talks
 
 - [Pydantic Performance Tips](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
-- [My Year+ of Open Source at Pydantic]() - recording coming soon!
+- [My Year+ of Open Source at Pydantic](https://www.youtube.com/watch?v=c4j5-dNtJkY)
 
 ## Get in Touch
 
