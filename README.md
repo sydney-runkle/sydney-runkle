@@ -6,7 +6,7 @@
 - 🦡 I'm graduated with my degree in Computer Science from the University of Wisconsin-Madison in 2024.
 - 🏃‍♀️ When I'm not coding, you can find me running, biking, or doing anything outside!
 - 🎧 I'm a podcast addict! I love listening to podcasts on a wide range of topics, including politics, tech, news, philosophy, and music.
-- 🌱 I’m currently learning rust and typescript, and I'm hoping to be fluent by the end of the year.
+- 🌱 I’m currently learning rust.
 - 🥐 Fun fact: I try to [bake something new](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0) every single week!
 
 ## Blog Posts
