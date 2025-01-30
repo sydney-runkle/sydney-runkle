@@ -20,6 +20,7 @@
 - [The Case for Documenting Code](https://medium.com/@sydneymarierunkle/the-case-for-documenting-code-a069e15f5cf7)
 - [Cancelled Flights, Wanderers Delights](https://medium.com/@sydneymarierunkle/cancelled-flights-wanderers-delights-0cc5eb696908)
 - [Pydantic v2.10](https://pydantic.dev/articles/pydantic-v2-10-release)
+- [Cold Emails for Hot Soup](https://medium.com/p/122f237e4a0a)
 
 ## Podcasts
 
