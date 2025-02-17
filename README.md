@@ -21,6 +21,7 @@
 - [Cancelled Flights, Wanderers Delights](https://medium.com/@sydneymarierunkle/cancelled-flights-wanderers-delights-0cc5eb696908)
 - [Pydantic v2.10](https://pydantic.dev/articles/pydantic-v2-10-release)
 - [Cold Emails for Hot Soup](https://medium.com/p/122f237e4a0a)
+- [Crafting a Winning Conference Talk: Lessons from a PyCon US Reviewer](https://medium.com/p/d64333a205ca)
 
 ## Podcasts
 
@@ -31,9 +32,10 @@
 
 - [Pydantic Performance Tips](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
 - [My Year+ of Open Source at Pydantic](https://www.youtube.com/watch?v=c4j5-dNtJkY)
+- [All About Pydantic](https://www.youtube.com/watch?v=N3uuFU3my-0)
 
 ## Get in Touch
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sydney-runkle/)
-- 🐦 Follow me on [Twitter](https://twitter.com/sydneyrunkle), and maybe I'll start actually using it someday.
+- 🐦 Follow me on [twitter/X](https://twitter.com/sydneyrunkle), and maybe I'll start actually using it someday.
 - ☕ If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/sydney.runkle) or sponsoring my open source work!
