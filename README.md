@@ -2,11 +2,10 @@
 
 ## About Me
 
-- 💻 I work as a software engineer at [@pydantic](https://github.com/pydantic), and I primarily focus on open source.
+- 💻 I work as a software engineer at [@langchain](https://www.langchain.com/), and I primarily focus on open source.
 - 🦡 I'm graduated with my degree in Computer Science from the University of Wisconsin-Madison in 2024.
 - 🏃‍♀️ When I'm not coding, you can find me running, biking, or doing anything outside!
 - 🎧 I'm a podcast addict! I love listening to podcasts on a wide range of topics, including politics, tech, news, philosophy, and music.
-- 🌱 I’m currently learning rust.
 - 🥐 Fun fact: I try to [bake something new](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0) every single week!
 
 ## Blog Posts
