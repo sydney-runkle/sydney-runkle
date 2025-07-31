@@ -3,7 +3,7 @@
 ## About Me
 
 - 💻 I work as a software engineer at [@langchain](https://www.langchain.com/), and I primarily focus on open source.
-- 🦡 I'm graduated with my degree in Computer Science from the University of Wisconsin-Madison in 2024.
+- 🦡 I'm graduated with my degree in Computer Science from the University of Wisconsin-Madison.
 - 🏃‍♀️ When I'm not coding, you can find me running, biking, or doing anything outside!
 - 🎧 I'm a podcast addict! I love listening to podcasts on a wide range of topics, including politics, tech, news, philosophy, and music.
 - 🥐 Fun fact: I try to [bake something new](https://medium.com/@sydneymarierunkle/i-bake-every-sunday-why-dont-i-write-too-35c81c9fb2b0) every single week!
@@ -21,20 +21,23 @@
 - [Pydantic v2.10](https://pydantic.dev/articles/pydantic-v2-10-release)
 - [Cold Emails for Hot Soup](https://medium.com/p/122f237e4a0a)
 - [Crafting a Winning Conference Talk: Lessons from a PyCon US Reviewer](https://medium.com/p/d64333a205ca)
+- [Pydantic v2.11](https://pydantic.dev/articles/pydantic-v2-11-release)
 
 ## Podcasts
 
 - [Pydantic Performance Tips](https://talkpython.fm/episodes/show/466/pydantic-performance-tips)
 - [The Young Coder's Blueprint To Success](https://talkpython.fm/episodes/show/444/the-young-coders-blueprint-to-success)
+- [Agentic AI Workflows with LangGraph](https://talkpython.fm/episodes/show/507/agentic-ai-workflows-with-langgraph)
 
 ## Talks
 
 - [Pydantic Performance Tips](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
 - [My Year+ of Open Source at Pydantic](https://www.youtube.com/watch?v=c4j5-dNtJkY)
 - [All About Pydantic](https://www.youtube.com/watch?v=N3uuFU3my-0)
+- 
 
 ## Get in Touch
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sydney-runkle/)
-- 🐦 Follow me on [twitter/X](https://twitter.com/sydneyrunkle), and maybe I'll start actually using it someday.
+- 🐦 Follow me on [twitter/X](https://twitter.com/sydneyrunkle)
 - ☕ If you like what I do and want to support me, consider [buying me a coffee](https://buymeacoffee.com/sydney.runkle) or sponsoring my open source work!
