@@ -31,10 +31,10 @@
 
 ## Talks
 
-- [Pydantic Performance Tips](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
-- [My Year+ of Open Source at Pydantic](https://www.youtube.com/watch?v=c4j5-dNtJkY)
-- [All About Pydantic](https://www.youtube.com/watch?v=N3uuFU3my-0)
-- 
+- [Mastering Pythonic Data Validation and Transformation with Pydantic, MadPy 2024](https://madpy.com/meetups/2024/5/9/20240509-mastering-pythonic-data-validation-and-transformation-with-pydantic/)
+- [Pydantic Performance Tips, PyCon US 2024](https://www.youtube.com/watch?v=17ezoB4s7j0&ab_channel=PyConUS)
+- [My Year+ of Open Source at Pydantic, PyCon Portugal 2024](https://www.youtube.com/watch?v=c4j5-dNtJkY)
+- [All About Pydantic, Boston Python 2025](https://www.youtube.com/watch?v=N3uuFU3my-0)
 
 ## Get in Touch
 
